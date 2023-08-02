@@ -1,0 +1,2 @@
+# Image_invisibility
+Qt和OpenCV实现图片的隐身处理
